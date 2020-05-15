@@ -1,0 +1,26 @@
+.flex-container {
+  width: 80%;
+  margin: 10px auto 0 auto;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.flex-container form button {
+  margin-top: 5px;
+}
+.powered {
+  margin-top: 20px;
+  bottom: 0;
+  align-self: center;
+}
+.searched {
+  margin-top: 15px;
+  width: 100%;
+  text-align: center;
+}
+.itens {
+  margin-top: 15px;
+  display: flex;
+  width: 100%;
+  justify-content: space-around;
+}
